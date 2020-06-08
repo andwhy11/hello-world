@@ -1,5 +1,4 @@
 # hello-world
-a new repo
 
 
 Hi everyone, 
